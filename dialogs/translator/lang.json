@@ -1,0 +1,317 @@
+{
+    "Afrikaans": {
+      "key": "af",
+      "nativeName": "Afrikaans",
+      "dir": "ltr"
+    },
+    "Arabic": {
+      "key": "ar",
+      "nativeName": "العربية",
+      "dir": "rtl"
+    },
+    "Bulgarian": {
+      "key": "bg",
+      "nativeName": "Български",
+      "dir": "ltr"
+    },
+    "Bangla": {
+      "key": "bn",
+      "nativeName": "বাংলা",
+      "dir": "ltr"
+    },
+    "Bosnian": {
+      "key": "bs",
+      "nativeName": "bosanski (latinica)",
+      "dir": "ltr"
+    },
+    "Catalan": {
+      "key": "ca",
+      "nativeName": "Català",
+      "dir": "ltr"
+    },
+    "Czech": {
+      "key": "cs",
+      "nativeName": "Čeština",
+      "dir": "ltr"
+    },
+    "Welsh": {
+      "key": "cy",
+      "nativeName": "Welsh",
+      "dir": "ltr"
+    },
+    "Danish": {
+      "key": "da",
+      "nativeName": "Dansk",
+      "dir": "ltr"
+    },
+    "German": {
+      "key": "de",
+      "nativeName": "Deutsch",
+      "dir": "ltr"
+    },
+    "Greek": {
+      "key": "el",
+      "nativeName": "Ελληνικά",
+      "dir": "ltr"
+    },
+    "English": {
+      "key": "en",
+      "nativeName": "English",
+      "dir": "ltr"
+    },
+    "Spanish": {
+      "key": "es",
+      "nativeName": "Español",
+      "dir": "ltr"
+    },
+    "Estonian": {
+      "key": "et",
+      "nativeName": "Eesti",
+      "dir": "ltr"
+    },
+    "Persian": {
+      "key": "fa",
+      "nativeName": "Persian",
+      "dir": "rtl"
+    },
+    "Finnish": {
+      "key": "fi",
+      "nativeName": "Suomi",
+      "dir": "ltr"
+    },
+    "Filipino": {
+      "key": "fil",
+      "nativeName": "Filipino",
+      "dir": "ltr"
+    },
+    "Fijian": {
+      "key": "fj",
+      "nativeName": "Fijian",
+      "dir": "ltr"
+    },
+    "French": {
+      "key": "fr",
+      "nativeName": "Français",
+      "dir": "ltr"
+    },
+    "Hebrew": {
+      "key": "he",
+      "nativeName": "עברית",
+      "dir": "rtl"
+    },
+    "Hindi": {
+      "key": "hi",
+      "nativeName": "हिंदी",
+      "dir": "ltr"
+    },
+    "Croatian": {
+      "key": "hr",
+      "nativeName": "Hrvatski",
+      "dir": "ltr"
+    },
+    "Haitian Creole": {
+      "key": "ht",
+      "nativeName": "Haitian Creole",
+      "dir": "ltr"
+    },
+    "Hungarian": {
+      "key": "hu",
+      "nativeName": "Magyar",
+      "dir": "ltr"
+    },
+    "Indonesian": {
+      "key": "id",
+      "nativeName": "Indonesia",
+      "dir": "ltr"
+    },
+    "Icelandic": {
+      "key": "is",
+      "nativeName": "Íslenska",
+      "dir": "ltr"
+    },
+    "Italian": {
+      "key": "it",
+      "nativeName": "Italiano",
+      "dir": "ltr"
+    },
+    "Japanese": {
+      "key": "ja",
+      "nativeName": "日本語",
+      "dir": "ltr"
+    },
+    "Korean": {
+      "key": "ko",
+      "nativeName": "한국어",
+      "dir": "ltr"
+    },
+    "Lithuanian": {
+      "key": "lt",
+      "nativeName": "Lietuvių",
+      "dir": "ltr"
+    },
+    "Latvian": {
+      "key": "lv",
+      "nativeName": "Latviešu",
+      "dir": "ltr"
+    },
+    "Malagasy": {
+      "key": "mg",
+      "nativeName": "Malagasy",
+      "dir": "ltr"
+    },
+    "Malay": {
+      "key": "ms",
+      "nativeName": "Melayu",
+      "dir": "ltr"
+    },
+    "Maltese": {
+      "key": "mt",
+      "nativeName": "Il-Malti",
+      "dir": "ltr"
+    },
+    "Hmong Daw": {
+      "key": "mww",
+      "nativeName": "Hmong Daw",
+      "dir": "ltr"
+    },
+    "Norwegian": {
+      "key": "nb",
+      "nativeName": "Norsk",
+      "dir": "ltr"
+    },
+    "Dutch": {
+      "key": "nl",
+      "nativeName": "Nederlands",
+      "dir": "ltr"
+    },
+    "Querétaro Otomi": {
+      "key": "otq",
+      "nativeName": "Querétaro Otomi",
+      "dir": "ltr"
+    },
+    "Polish": {
+      "key": "pl",
+      "nativeName": "Polski",
+      "dir": "ltr"
+    },
+    "Portuguese": {
+      "key": "pt",
+      "nativeName": "Português",
+      "dir": "ltr"
+    },
+    "Romanian": {
+      "key": "ro",
+      "nativeName": "Română",
+      "dir": "ltr"
+    },
+    "Russian": {
+      "key": "ru",
+      "nativeName": "Русский",
+      "dir": "ltr"
+    },
+    "Slovak": {
+      "key": "sk",
+      "nativeName": "Slovenčina",
+      "dir": "ltr"
+    },
+    "Slovenian": {
+      "key": "sl",
+      "nativeName": "Slovenščina",
+      "dir": "ltr"
+    },
+    "Samoan": {
+      "key": "sm",
+      "nativeName": "Samoan",
+      "dir": "ltr"
+    },
+    "Serbian (Cyrillic)": {
+      "key": "sr-Cyrl",
+      "nativeName": "srpski (ćirilica)",
+      "dir": "ltr"
+    },
+    "Serbian (Latin)": {
+      "key": "zr-Latn",
+      "nativeName": "srpski (latinica)",
+      "dir": "ltr"
+    },
+    "Swedish": {
+      "key": "sv",
+      "nativeName": "Svenska",
+      "dir": "ltr"
+    },
+    "Kiswahili": {
+      "key": "sw",
+      "nativeName": "Kiswahili",
+      "dir": "ltr"
+    },
+    "Tamil": {
+      "key": "ta",
+      "nativeName": "தமிழ்",
+      "dir": "ltr"
+    },
+    "Telugu": {
+      "key": "te",
+      "nativeName": "తెలుగు",
+      "dir": "ltr"
+    },
+    "Thai": {
+      "key": "th",
+      "nativeName": "ไทย",
+      "dir": "ltr"
+    },
+    "Klingon": {
+      "key": "tlh",
+      "nativeName": "Klingon",
+      "dir": "ltr"
+    },
+    "Tongan": {
+      "key": "to",
+      "nativeName": "lea fakatonga",
+      "dir": "ltr"
+    },
+    "Turkish": {
+      "key": "tr",
+      "nativeName": "Türkçe",
+      "dir": "ltr"
+    },
+    "Tahitian": {
+      "key": "ty",
+      "nativeName": "Tahitian",
+      "dir": "ltr"
+    },
+    "Ukrainian": {
+      "key": "uk",
+      "nativeName": "Українська",
+      "dir": "ltr"
+    },
+    "Urdu": {
+      "key": "ur",
+      "nativeName": "اردو",
+      "dir": "rtl"
+    },
+    "Vietnamese": {
+      "key": "vi",
+      "nativeName": "Tiếng Việt",
+      "dir": "ltr"
+    },
+    "Yucatec Maya": {
+      "key": "yua",
+      "nativeName": "Yucatec Maya",
+      "dir": "ltr"
+    },
+    "Cantonese (Traditional)": {
+      "key": "yue",
+      "nativeName": "粵語 (繁體中文)",
+      "dir": "ltr"
+    },
+    "Chinese Simplified": {
+      "key": "zh-Hans",
+      "nativeName": "简体中文",
+      "dir": "ltr"
+    },
+    "Chinese Traditional": {
+      "key": "zh-Hant",
+      "nativeName": "繁體中文",
+      "dir": "ltr"
+    }
+  }

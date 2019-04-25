@@ -1,0 +1,25 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "backgroundImage": "https://cdn.shopify.com/s/files/1/0743/3339/products/RAL1001_BEIGE.jpg?v=1446712589",
+    "body": [
+      {
+        "type": "TextBlock",
+        "spacing": "medium",
+        "size": "default",
+        "weight": "bolder",
+        "text": "Welcome! My name is Frenchie.",
+        "wrap": true,
+        "maxLines": 0
+      },
+      {
+        "type": "TextBlock",
+        "size": "default",
+        "isSubtle": "yes",
+        "text": "You can translate words and sentences to other languages with my help.",
+        "wrap": true,
+        "maxLines": 0
+      }
+    ]
+  }

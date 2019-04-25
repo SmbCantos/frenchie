@@ -1,0 +1,316 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0",
+    "backgroundImage": "https://cdn.shopify.com/s/files/1/0743/3339/products/RAL1001_BEIGE.jpg?v=1446712589",
+    "body": [
+      {
+        "type": "TextBlock",
+        "spacing": "medium",
+        "size": "small",
+        "text": "***Text Field is Required***",
+        "wrap": true,
+        "maxLines": 0,
+        "color": "attention"
+      },
+      {
+          "type": "TextBlock",
+          "text": "Translate To",
+          "spacing": "medium",
+          "size": "default",
+          "weight": "bolder",
+          "wrap": true,
+          "maxLines": 5
+      },
+      {
+          "type": "Input.ChoiceSet",
+          "id": "translate_to",
+          "style": "compact",
+          "isMultiSelect": false,
+          "value": "French",
+          "choices": [
+            {
+                "title": "Afrikaans",
+                "value": "Afrikaans"
+            },
+            {
+                "title": "Arabic",
+                "value": "Arabic"
+            },
+            {
+                "title": "Bulgarian",
+                "value": "Bulgarian"
+            },
+            {
+                "title": "Bangla",
+                "value": "Bangla"
+            },
+            {
+                "title": "Bosnian",
+                "value": "Bosnian"
+            },
+            {
+                "title": "Catalan",
+                "value": "Catalan"
+            },
+            {
+                "title": "Czech",
+                "value": "Czech"
+            },
+            {
+                "title": "Welsh",
+                "value": "Welsh"
+            },
+            {
+                "title": "Danish",
+                "value": "Danish"
+            },
+            {
+                "title": "German",
+                "value": "German"
+            },
+            {
+                "title": "Greek",
+                "value": "Greek"
+            },
+            {
+                "title": "English",
+                "value": "English"
+            },
+            {
+                "title": "Spanish",
+                "value": "Spanish"
+            },
+            {
+                "title": "Estonian",
+                "value": "Estonian"
+            },
+            {
+                "title": "Persian",
+                "value": "Persian"
+            },
+            {
+                "title": "Finnish",
+                "value": "Finnish"
+            },
+            {
+                "title": "Filipino",
+                "value": "Filipino"
+            },
+            {
+                "title": "Fijian",
+                "value": "Fijian"
+            },
+            {
+                "title": "French",
+                "value": "French"
+            },
+            {
+                "title": "Hebrew",
+                "value": "Hebrew"
+            },
+            {
+                "title": "Hindi",
+                "value": "Hindi"
+            },
+            {
+                "title": "Croatian",
+                "value": "Croatian"
+            },
+            {
+                "title": "Haitian Creole",
+                "value": "Haitian Creole"
+            },
+            {
+                "title": "Hungarian",
+                "value": "Hungarian"
+            },
+            {
+                "title": "Indonesian",
+                "value": "Indonesian"
+            },
+            {
+                "title": "Icelandic",
+                "value": "Icelandic"
+            },
+            {
+                "title": "Italian",
+                "value": "Italian"
+            },
+            {
+                "title": "Japanese",
+                "value": "Japanese"
+            },
+            {
+                "title": "Korean",
+                "value": "Korean"
+            },
+            {
+                "title": "Lithuanian",
+                "value": "Lithuanian"
+            },
+            {
+                "title": "Latvian",
+                "value": "Latvian"
+            },
+            {
+                "title": "Malagasy",
+                "value": "Malagasy"
+            },
+            {
+                "title": "Malay",
+                "value": "Malay"
+            },
+            {
+                "title": "Maltese",
+                "value": "Maltese"
+            },
+            {
+                "title": "Bulgarian",
+                "value": "Bulgarian"
+            },
+            {
+                "title": "Hmong Daw",
+                "value": "Hmong Daw"
+            },
+            {
+                "title": "Norwegian",
+                "value": "Norwegian"
+            },
+            {
+                "title": "Dutch",
+                "value": "Dutch"
+            },
+            {
+                "title": "Querétaro Otomi",
+                "value": "Querétaro Otomi"
+            },
+            {
+                "title": "Polish",
+                "value": "Polish"
+            },
+            {
+                "title": "Portuguese",
+                "value": "Portuguese"
+            },
+            {
+                "title": "Romanian",
+                "value": "Romanian"
+            },
+            {
+                "title": "Russian",
+                "value": "Russian"
+            },
+            {
+                "title": "Slovak",
+                "value": "Slovak"
+            },
+            {
+                "title": "Slovenian",
+                "value": "Slovenian"
+            },
+            {
+                "title": "Samoan",
+                "value": "Samoan"
+            },
+            {
+                "title": "Serbian (Cyrillic)",
+                "value": "Serbian (Cyrillic)"
+            },
+            {
+                "title": "Serbian (Latin)",
+                "value": "Serbian (Latin)"
+            },
+            {
+                "title": "Swedish",
+                "value": "Swedish"
+            },
+            {
+                "title": "Kiswahili",
+                "value": "Kiswahili"
+            },
+            {
+                "title": "Tamil",
+                "value": "Tamil"
+            },
+            {
+                "title": "Telugu",
+                "value": "Telugu"
+            },
+            {
+                "title": "Thai",
+                "value": "Thai"
+            },
+            {
+                "title": "Klingon",
+                "value": "Klingon"
+            },
+            {
+                "title": "Tongan",
+                "value": "Tongan"
+            },
+            {
+                "title": "Turkish",
+                "value": "Turkish"
+            },
+            {
+                "title": "Tahitian",
+                "value": "Tahitian"
+            },
+            {
+                "title": "Ukrainian",
+                "value": "Ukrainian"
+            },
+            {
+                "title": "Urdu",
+                "value": "Urdu"
+            },
+            {
+                "title": "Vietnamese",
+                "value": "Vietnamese"
+            },
+            {
+                "title": "Yucatec Maya",
+                "value": "Yucatec Maya"
+            },
+            {
+                "title": "Cantonese (Traditional)",
+                "value": "Cantonese (Traditional)"
+            },
+            {
+                "title": "Chinese Simplified",
+                "value": "Chinese Simplified"
+            },
+            {
+                "title": "Chinese Traditional",
+                "value": "Chinese Traditional"
+            }                
+        ]
+      },
+      {
+          "type": "TextBlock",
+          "text": "Text",
+          "spacing": "medium",
+          "size": "default",
+          "weight": "bolder",
+          "wrap": true,
+          "maxLines": 5
+      },
+      {
+          "type": "Input.Text",
+          "id": "text",
+          "placeholder": "Enter Text to be Translated",
+          "maxLength": 50,
+          "isMultiline": false
+      }
+    ],
+    "actions":[
+      {
+          "type": "Action.Submit",
+          "title": "SUBMIT",
+          "data": {
+              "id": "translate"
+          }
+      }        
+    ]
+  }
